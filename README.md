@@ -7,6 +7,10 @@ this are types of services 1)Foreground Service 2)Background Service
 
 2) Create Service Class and implement MediaPlayer Object
 
-![Screenshot_20230930_171441](https://github.com/Chintan0484/MAD_practical6_21012011002/assets/98694412/fd328014-92c6-4720-90bc-1da41f3076be)
+![image](https://github.com/Chintan0484/MAD_practical6_21012011002/assets/98694412/dd30fc81-e06f-4bdd-b824-64f17562bffd)
 
-![Screenshot_20230930_171602](https://github.com/Chintan0484/MAD_practical6_21012011002/assets/98694412/a37e5f29-9b79-402b-97b0-c13beabd6f5b)
+![image](https://github.com/Chintan0484/MAD_practical6_21012011002/assets/98694412/c9513b3d-3cab-4157-bd70-f3953c78e199)
+
+
+
+
