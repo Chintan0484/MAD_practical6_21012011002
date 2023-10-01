@@ -5,6 +5,8 @@ AIM: What is Service? Write down types of Service. Create an MP3 player applicat
 
 answer : service is a component that performs background tasks without a user interface. Services are used to execute long-running operations independently of the user interface, making them suitable for tasks like playing music in the background, downloading files, or handling network requests. Services run in the background and do not interact directly with the user.
 this are types of services 
+
+
 1)Foreground Service : Services that notify the user about its ongoing operations are termed as Foreground Services. Users can interact with the service by the notifications provided about the ongoing task. Such as in downloading a file, the user can keep track of the progress in downloading and can also pause and resume the process.
 
 2)Background Service :- Background services do not require any user intervention. These services do not notify the user about ongoing background tasks and users also cannot access them. The process like schedule syncing of data or storing of data fall under this service.
